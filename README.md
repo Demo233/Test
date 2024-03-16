@@ -1,8 +1,9 @@
-<p align="center"><a href="https://dataease.io"><img src="https://hoey-images.oss-cn-hangzhou.aliyuncs.com/img/MoviePilot-logo.jpeg" alt="MoviePilot" width="250" /></a></p>
-<h3 align="center">MoviePilot</h3>
 <p align="center'>
 <a href="./README.md">English</a>|<a href="readme/README.zh_CN.md">简体中文</a>
 </p>
+
+<p align="center"><a href="https://dataease.io"><img src="https://hoey-images.oss-cn-hangzhou.aliyuncs.com/img/MoviePilot-logo.jpeg" alt="MoviePilot" width="250" /></a></p>
+
 
 
 # MoviePilot
