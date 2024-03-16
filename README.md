@@ -1,4 +1,4 @@
-<p align="center"><a href="https://dataease.io"><img src="https://hoey-images.oss-cn-hangzhou.aliyuncs.com/img/MoviePilot-logo.jpeg" alt="DataEase" width="300" /></a></p>
+<p align="center"><a href="https://dataease.io"><img src="https://hoey-images.oss-cn-hangzhou.aliyuncs.com/img/MoviePilot-logo.jpeg" alt="MoviePilot" width="250" /></a></p>
 <h3 align="center">MoviePilot</h3>
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/github/license/dataease/dataease?color=%231890FF" alt="License: GPL v3"></a>
