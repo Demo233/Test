@@ -1,12 +1,13 @@
-<p align="center'>
-<a href="./README.md">English</a>|<a href="readme/README.zh_CN.md">简体中文</a>
-</p>
+
 
 <p align="center"><a href="https://dataease.io"><img src="https://hoey-images.oss-cn-hangzhou.aliyuncs.com/img/MoviePilot-logo.jpeg" alt="MoviePilot" width="250" /></a></p>
 
 
 
 # MoviePilot
+<p align="center'>
+<a href="./README.md">English</a>|<a href="readme/README.zh_CN.md">简体中文</a>
+</p>
 
 Based on some code refactoring of [NAStool](https://github.com/NAStool/nas-tools), MoviePilot focuses on automating core needs, reducing issues, and making it easier to expand and maintain.
 
